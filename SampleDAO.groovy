@@ -6,6 +6,8 @@ import javax.sql.DataSource
  
 import com.ricston.blog.sample.model.dao.SimpleUserDAO
 import com.ricston.blog.sample.model.data.SimpleUser
+
+// TODO: Finish implementation
  
 class PostgreSimpleUserDAO implements SimpleUserDAO {
 	private Sql sql
