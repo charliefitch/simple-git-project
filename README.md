@@ -12,6 +12,12 @@ The quick brown fox jumped over the lazy
 dog's back.
 
 ### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+####### Header 7
+######## Header 8
+######### Header 9
 
 > This is a blockquote.
 > 
